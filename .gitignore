@@ -1,0 +1,13 @@
+# Frontend
+/frontend/node_modules/
+
+# Python virtual environment
+/venv/
+
+# Environment variables (secrets)
+/.env
+
+# Generated/uploaded data
+/backend/data/dataset/
+/backend/data/model/
+/backend/uploads/resumes/
